@@ -19,6 +19,7 @@ El prototipo esta dividido en secciones para el desarrollo del código del dispo
 
 
 Importación de las librerías
+
 ![image](https://user-images.githubusercontent.com/86011220/133913492-e3adc45f-5c09-403c-8dcf-0a4583298b67.png)
 
 Definición de función para el envío
