@@ -8,7 +8,14 @@ El prototipo esta dividido en secciones para el desarrollo del código del dispo
 - Definición de función para el envío
 - Definición de función para recibir la respuesta
 - Declaración de variables
-- 
+- Iniciar y conectar la wifi
+- Fijar fecha y hora
+- Obtener la dirección mac del dispositivo
+- Inicialización de variables
+- Instanciar el objeto de las mediciones del sensor
+- Definción del objeto mqtt
+- Creación del entorno gráfico 
+- Ciclo infinito para la toma de las muestras del sensor y la fecha y hora y envío hacia la nube
 
 
 
